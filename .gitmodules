@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "provDebugR"]
+	path = provDebugR
+	url = https://github.com/cran/provDebugR
+	shallow = true
+	registered = true
+[submodule "provGraphR"]
+	path = provGraphR
+	url = https://github.com/cran/provGraphR
+	shallow = true
+	registered = true
+[submodule "provParseR"]
+	path = provParseR
+	url = https://github.com/cran/provParseR
+	shallow = true
+	registered = true
